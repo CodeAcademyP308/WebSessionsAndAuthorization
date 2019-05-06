@@ -1,0 +1,13 @@
+﻿@using WebSessions.Models.Entity
+
+@{
+    ViewBag.Title = "Index";
+
+    //var date = Session["date"];
+    var date = Session["date"];
+    var user = (User)Session[SessionKey.User];
+}
+
+<h2>Index - @date</h2>
+
+<p><strong>Salam!,@user.Email</strong></p>
