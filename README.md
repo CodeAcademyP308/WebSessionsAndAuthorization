@@ -1,4 +1,4 @@
-# WebSessionsAndAuthorization
+# Web Sessions & Authorization
 
 Vizew Web Saytimiz üzrə istifadəçi girişi tətbiqinin hazırlanması
 
